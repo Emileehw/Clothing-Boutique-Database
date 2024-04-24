@@ -1,4 +1,4 @@
-Clothing Store Database
+Clothing Boutique Database
 
-I designed a clothing store database using SQL and analyzed statistics by
+I designed a clothing boutique database using SQL and analyzed statistics by
 product.
